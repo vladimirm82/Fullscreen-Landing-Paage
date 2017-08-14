@@ -7,7 +7,7 @@ body{
   margin:0;
   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
   font-size:17px;
-  color:#926239;
+  color:#926239;;
   line-height:1.6;
 }
 
@@ -50,15 +50,16 @@ body{
 
 #section-a{
   padding:20px;
-  background:#926239;
-  color:#fff;
+  background: #f1f1f1 ;
   text-align:center;
+    margin: 0 20px 0 20px;
 }
 
 #section-b{
   padding:20px;
-  background:#f4f4f4;
+  background:#f1f1f1;
   text-align:center;
+  margin: 0 20px 0 20px;
 }
 
 #section-c{
@@ -72,6 +73,7 @@ body{
 #section-c .box-1, #section-c .box-3{
   background:#926239;
   color:#fff;
+  margin: 0 20px 20px 20px;
 }
 
 #section-c .box-2{
