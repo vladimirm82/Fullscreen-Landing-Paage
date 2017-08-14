@@ -73,9 +73,10 @@ body{
 #section-c .box-1, #section-c .box-3{
   background:#926239;
   color:#fff;
-  margin: 0 20px 20px 20px;
+  margin: 5px 20px 20px 20px;
 }
 
 #section-c .box-2{
   background:#f9f9f9;
+    margin-top: 5px;
 }
